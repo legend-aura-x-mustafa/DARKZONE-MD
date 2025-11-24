@@ -19,8 +19,8 @@ module.exports = {
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923306137477",  // Owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",           // Owner's name
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "92406982921",  // Owner's WhatsApp number
+    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Mustafa",           // Owner's name
     DEV: process.env.DEV || "923306137477",                     // Developer's contact number
     DEVELOPER_NUMBER: '923306137477@s.whatsapp.net',            // Developer's WhatsApp ID
 
